@@ -1,0 +1,17 @@
+C:\Users\Yeridi Crhis\source\repos\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\Yeridi Crhis\source\repos\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\Yeridi Crhis\source\repos\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.1\Views\AlbumesPage.xaml.g.cs
+C:\Users\Yeridi Crhis\source\repos\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.1\Views\AlbumPage.xaml.g.cs
+C:\Users\Yeridi Crhis\source\repos\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.1\Views\MainPage.xaml.g.cs
+C:\Users\Yeridi Crhis\source\repos\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.1\XamEFCore.AssemblyInfoInputs.cache
+C:\Users\Yeridi Crhis\source\repos\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.1\XamEFCore.AssemblyInfo.cs
+C:\Users\Yeridi Crhis\source\repos\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.1\XamEFCore.csproj.CoreCompileInputs.cache
+C:\Users\Yeridi Crhis\source\repos\XamEFCore\XamEFCore\XamEFCore\bin\Debug\netstandard2.1\XamEFCore.deps.json
+C:\Users\Yeridi Crhis\source\repos\XamEFCore\XamEFCore\XamEFCore\bin\Debug\netstandard2.1\XamEFCore.dll
+C:\Users\Yeridi Crhis\source\repos\XamEFCore\XamEFCore\XamEFCore\bin\Debug\netstandard2.1\ref\XamEFCore.dll
+C:\Users\Yeridi Crhis\source\repos\XamEFCore\XamEFCore\XamEFCore\bin\Debug\netstandard2.1\XamEFCore.pdb
+C:\Users\Yeridi Crhis\source\repos\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\Yeridi Crhis\source\repos\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.1\XamEFCore.dll
+C:\Users\Yeridi Crhis\source\repos\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.1\ref\XamEFCore.dll
+C:\Users\Yeridi Crhis\source\repos\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.1\XamEFCore.pdb
+C:\Users\Yeridi Crhis\source\repos\XamEFCore\XamEFCore\XamEFCore\obj\Debug\netstandard2.1\XamEFCore.csproj.AssemblyReference.cache
